@@ -1,0 +1,20 @@
+# Z-Image Model Manifest
+# Format: <md5hash>  <filepath>
+# Generated automatically - DO NOT edit manually
+
+5e3226ed72a9a4a080f2a4ca78b98ddc  model_index.json
+ca682fcc6c5a94cf726b7187e64b9411  scheduler/scheduler_config.json
+1e97eb35d9d0b6aa60c58a8df8d7d99a  text_encoder/config.json
+30b85686b9a9b002e012494fadc027cb  text_encoder/model-00001-of-00003.safetensors
+e6a24ea164404a01ad2800dbae4e1a13  text_encoder/model-00002-of-00003.safetensors
+09e190ed15ff14795b6277e023cfcb2d  text_encoder/model-00003-of-00003.safetensors
+589f5395156900f49d617aee8a8d8708  text_encoder/model.safetensors.index.json
+6423133b9cc1a2077b57822c30c211aa  tokenizer/tokenizer.json
+b06e103ac555ec4b51266078b518c0f0  tokenizer/tokenizer_config.json
+baed87136fe5f848e24b072f99856cc3  transformer/config.json
+54889d0dd179b4fa2fd7bd0e487d856e  transformer/diffusion_pytorch_model-00001-of-00003.safetensors
+fe81e804658d345323512c63224b0604  transformer/diffusion_pytorch_model-00002-of-00003.safetensors
+4e074e09129f98ad840414951f122feb  transformer/diffusion_pytorch_model-00003-of-00003.safetensors
+76d788eb0d42c59cc8f8ec007db639aa  transformer/diffusion_pytorch_model.safetensors.index.json
+ba9e2980c8630b4abccc643bc9f4a542  vae/config.json
+6f83de55cb720c7fae051b14528577bf  vae/diffusion_pytorch_model.safetensors

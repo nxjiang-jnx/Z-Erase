@@ -1,0 +1,35 @@
+# Z-Erase dependencies (Python 3.10+, Linux)
+# Install PyTorch first: https://pytorch.org/get-started/locally/
+# Then: pip install -r requirements.txt
+# Finally install local forks: peft/ and diffusers/ (see README)
+
+# Core
+transformers>=4.41.2
+accelerate>=0.20.0
+safetensors>=0.3.1
+sentencepiece>=0.1.91,!=0.1.92
+huggingface-hub>=0.34.0,<2.0
+
+# Utilities
+PyYAML>=6.0
+numpy>=1.23.0
+tqdm>=4.65.0
+Pillow>=9.0.0
+
+# Training
+nltk>=3.8
+matplotlib>=3.7.0
+wandb>=0.15.0
+
+# Attack & evaluation
+pandas>=2.0.0
+opencv-python>=4.8.0
+onnxruntime>=1.16.0
+
+# Q16 CLIP evaluation
+ftfy>=6.1.0
+regex>=2023.0.0
+git+https://github.com/openai/CLIP.git
+
+# Optional: use_8bit_adam in config
+# bitsandbytes>=0.43.0
