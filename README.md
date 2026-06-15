@@ -21,6 +21,10 @@
   <img src="assets/teaser.png" alt="teaser" width="500" />
 </p>
 
+<p align="center">
+  <img src="assets/poster.png" alt="poster" width="800" />
+</p>
+
 Z-Erase is an open-source project for Concept Erasure in Single Stream Diffusion Models: e.g. Z-Image.
 
 
