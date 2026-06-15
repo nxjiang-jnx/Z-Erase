@@ -1,7 +1,7 @@
 # Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers
 
 ### [ICML 2026]
-Nanxiang Jiang, Zhaoxin Fan, Baisen Wang, Daiheng Gao, Junhang Cheng, Jifeng Guo, Yalian Qin, Yeying Jin, Hongwei Zheng, Faguo Wu, Wenjun Wu
+[Nanxiang Jiang](https://nxjiang-jnx.github.io/), [Zhaoxin Fan](https://zhaoxinf.github.io/), [Baisen Wang](https://github.com/wbs2788), [Daiheng Gao](https://tomguluson92.github.io/), [Junhang Cheng](https://cjhcoder7.github.io/), [Jifeng Guo](https://openreview.net/profile?id=~Jifeng_Guo1), [Yalian Qin](https://openreview.net/profile?id=~Yalan_Qin1), [Yeying Jin](https://jinyeying.github.io/), [Hongwei Zheng](https://openreview.net/profile?id=~Hongwei_Zheng4), [Faguo Wu](https://openreview.net/profile?id=~Faguo_Wu1), [Wenjun Wu](https://iai.buaa.edu.cn/info/1013/1093.htm)
 
 <p align="center">
   <a href="https://arxiv.org/pdf/2603.25074">
