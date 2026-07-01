@@ -4,15 +4,13 @@
 [Nanxiang Jiang](https://nxjiang-jnx.github.io/), [Zhaoxin Fan](https://zhaoxinf.github.io/), [Baisen Wang](https://github.com/wbs2788), [Daiheng Gao](https://tomguluson92.github.io/), [Junhang Cheng](https://cjhcoder7.github.io/), [Jifeng Guo](https://openreview.net/profile?id=~Jifeng_Guo1), [Yalian Qin](https://openreview.net/profile?id=~Yalan_Qin1), [Yeying Jin](https://jinyeying.github.io/), [Hongwei Zheng](https://openreview.net/profile?id=~Hongwei_Zheng4), [Faguo Wu](https://openreview.net/profile?id=~Faguo_Wu1), [Wenjun Wu](https://iai.buaa.edu.cn/info/1013/1093.htm)
 
 <p align="center">
-  <a href="https://arxiv.org/pdf/2603.25074">
-    <img src='https://img.shields.io/badge/Paper-arXiv%20Preprint-green?style=for-the-badge&logo=arxiv&logoColor=white&labelColor=66cc00&color=94DD15' alt='Paper PDF'>
-  </a>
-    <a href="https://github.com/nxjiang-jnx/Z-Erase">
-  <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
-</a>
-    <a href="LICENSE">
-  <img src="https://img.shields.io/badge/License-CC--BY-green?style=for-the-badge">
-</a>
+  <a href="https://arxiv.org/abs/2603.25074"><img src="https://img.shields.io/badge/arXiv-2603.25074-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
+  &nbsp;
+  <a href="https://nxjiang-jnx.github.io/Z-Erase-web/"><img src="https://img.shields.io/badge/Project%20Page-Z--Erase-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Project Page"></a>
+  &nbsp;
+  <a href="https://github.com/nxjiang-jnx/Z-Erase"><img src="https://img.shields.io/badge/Code-GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+  &nbsp;
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC--BY%204.0-4CAF50?style=flat-square&logo=creativecommons&logoColor=white" alt="License"></a>
 </p>
 
 
